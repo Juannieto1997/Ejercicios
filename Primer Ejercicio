@@ -1,5 +1,15 @@
 '''
 Crear un codigo que reciba una frase y que imprima la cantidad de caracteres qu tiene (incluyendo los espacios)
+y que cambie cada en una posición primo por el número primo correspondiente. 
 '''
+def cont (string): 
+  '''
+  insertar descripción y salidas 
+  '''
+  #TODO:Crear el codigo desde esta linea
+  return new_string
+  
+  
+#asserts para la validación 
+assert cont('hola pepito') == 'h23a5p7pit11'
 
-#TODO:Crear el codigo desde esta linea
